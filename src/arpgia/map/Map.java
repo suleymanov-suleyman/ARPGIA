@@ -1,6 +1,6 @@
 package arpgia.map;
 
-import arpgia.object.Entity;
+import arpgia.object.entities.Entity;
 
 import java.util.ArrayList;
 

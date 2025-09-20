@@ -1,4 +1,4 @@
-package arpgia.object;
+package arpgia.object.entities;
 
 public class Entity {
     private int health;
